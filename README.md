@@ -1,9 +1,6 @@
 # PythonPortfolio
-projects i created at jones college prep from 2025-2026
 
-# Multi-Project Repository: Python Applications, Games & Utilities
-
-Welcome to this collection of Python applications. This repository showcases a variety of programming concepts, including conditional narratives, modular arithmetic, data-driven lookup services, decision trees, and randomized simulation utilities.
+Welcome to this collection of Python applications. This repository was made with code from 2025-2026, and these projects were made at Jones College Prep. This repository showcases a variety of programming concepts, including conditional narratives, modular arithmetic, data-driven lookup services, decision trees, and randomized simulation utilities.
 
 ---
 
